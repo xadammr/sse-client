@@ -1,5 +1,5 @@
 {
-    "name": "obsh/sse-client",
+    "name": "tr8team/sse-client",
     "description": "Server Sent Event client implementation",
     "require": {
         "php": ">=5.5.0",
