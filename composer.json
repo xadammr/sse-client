@@ -1,5 +1,5 @@
 {
-    "name": "tr8team/sse-client",
+    "name": "xadammr/sse-client",
     "description": "Server Sent Event client implementation",
     "require": {
         "php": ">=5.5.0",
