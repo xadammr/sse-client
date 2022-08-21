@@ -9,9 +9,9 @@ class Event
     const END_OF_LINE = "/\r\n|\n|\r/";
 
     /** @var string */
-    private $data;
+    public $data;
     /** @var string */
-    private $eventType;
+    public $eventType;
     /** @var string */
     private $id;
     /** @var int */
